@@ -1,0 +1,19 @@
+Shopping Cart Items:
+
+Product: Chocolete Coffee
+Type: Cold
+Quantity: 1
+Price: $7
+
+Product: Americano
+Type: Cold
+Quantity: 1
+Price: $15
+
+Product: Latte
+Type: Cold
+Quantity: 1
+Price: $10
+
+
+Total Price: $32.0

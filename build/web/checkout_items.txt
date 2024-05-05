@@ -1,0 +1,10 @@
+Shopping Cart Items:
+
+Product: Chocolete Coffee
+Type: Cold
+Quantity: 1
+Price: $7
+Total: $7
+
+
+Total Price: $7.0
